@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{1B19158F-E398-40A6-8E3B-350508E125F1}") = "SMStoreApp", "SMStoreApp\SMStoreApp.dxjsproj", "{FF85149D-5A4E-4108-B9EC-EFAE756C68B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF85149D-5A4E-4108-B9EC-EFAE756C68B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF85149D-5A4E-4108-B9EC-EFAE756C68B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF85149D-5A4E-4108-B9EC-EFAE756C68B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF85149D-5A4E-4108-B9EC-EFAE756C68B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
