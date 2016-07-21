@@ -26,6 +26,7 @@
     <Content Include="index.css" />
     <None Include="config.xml" />
     <Content Include="css\dx.spa.css" />
+    <Content Include="css\dx.win10.white.css " />
     <Content Include="css\dx.common.css" />
     <Content Include="css\dx.contrast.compact.css" />
     <Content Include="css\dx.contrast.css" />
